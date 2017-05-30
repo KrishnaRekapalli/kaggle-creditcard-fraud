@@ -1,4 +1,4 @@
-##  kaggle credicard data fraud detection 
+##  kaggle credit card data fraud detection 
 #### Simple Multivariate gaussian distribution assumption is used to predict the probability that a given transaction is fraudulent.   
 
 - The raw data has ~250,000 normal transactions and ~500 fraudulent transactions  - This is highly imbalanced data but such is the nature of credit card data.   
